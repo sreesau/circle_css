@@ -1,0 +1,15 @@
+.container { 
+   outline: 1px solid #f5f5dc;
+   width: 700px;
+   height: 500px;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;}
+.circle { 
+   background-color: #ff0000; 
+   width: 200px; 
+   height: 200px;
+   border: 1px solid #ff0000;
+   border-radius: 50%;
+}
